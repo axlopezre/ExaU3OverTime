@@ -1,0 +1,7 @@
+{
+  "name": "ExU3OverTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
